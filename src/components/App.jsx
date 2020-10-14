@@ -8,7 +8,7 @@ const App = () => {
 
   return (
 <div>
-  <h1>Hooks React</h1>
+  <h1>Hola React</h1>
 </div>
   );
 };
